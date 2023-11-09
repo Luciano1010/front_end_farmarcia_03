@@ -6,11 +6,12 @@ function Navbar() {
                 flex justify-center py-4'>
             
                 <div className="container flex justify-between text-lg">
-                    Farmarcia Bem Estar
+                    Farmacia Bem Estar
 
                     <div className='flex gap-4'>
-                        Produtos
-                        Categorias
+                     Cadastrar Categoria
+                     Cateorias
+                        
                     </div>
                 </div>
             </div>
