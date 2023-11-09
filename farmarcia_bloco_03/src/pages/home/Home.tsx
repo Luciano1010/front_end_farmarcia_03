@@ -15,19 +15,15 @@ function Home() {
                         </p>
 
                         <div className="flex justify-around gap-4">
-                            <div className='rounded text-white 
-                                            border-white border-solid border-2 py-2 px-4'
-                                >
-                                Nova Compra
-                            </div>
+                            
                         </div>
                     </div>
 
                     <div className="flex justify-center ">
                         <img
-                            src="https://i.imgur.com/fyfri1v.png"
+                            src="https://th.bing.com/th/id/OIG.5oHQD66T.kbLZNrQPTT.?w=270&h=270&c=6&r=0&o=5&dpr=1.5&pid=ImgGn"
                             alt="Imagem Página Home"
-                            className='w-2/3'
+                            className='w-2/3 rounded-full'
                         />
                     </div>
                 </div>
